@@ -1,6 +1,6 @@
 <div>
 <p>
-  👋 Hi,
+<h6>👋 Hi,</h6>
 Estudante de Engenharia de Software - Anhanguera. Pós Graduado em GETI - Gestão Estratégica de Tecnologia da Informação no IFSP- BRAGANÇA e estudos em Segurança da Informação- Técnicas de Invasão - GuardWeb; HCIA - Cloud Service V3 - Huawei ICT Academy e Front-End Engineer - EBAC. 
 Trabalhando em e-commerce varejista desde 2016, de onde venho desenvolvendo toda minha carreira em tecnologia e meu conhecimento em TI. Forte conhecimento em toda a cadeia logística varejista e de toda a regra de negócio de e-commerce e processos operacionais.
 Suporte ao cliente interno e externo e contato com fornecedores e integradores.
