@@ -6,9 +6,6 @@ Estudante de Engenharia de Software - Anhanguera. Pós Graduado em GETI - Gestã
 👋 Hi,<br>
 Software Engineering student - Anhanguera. Postgraduate in GETI - Strategic Management of Information Technology at IFSP- BRAGANÇA, studies in Information Security - Intrusion Techniques - GuardWeb; HCIA - Cloud Service V3 - Huawei ICT Academy, Front-End Engineer - EBAC and foreign language - English at ISI Dublin in Dublin, Ireland.
   
-
-
-  
 </div>
 <!---
 stn8m0n/stn8m0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
